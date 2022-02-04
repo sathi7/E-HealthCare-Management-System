@@ -6,5 +6,5 @@
 ![image](https://user-images.githubusercontent.com/95906291/152490746-8f0dc17a-db70-4d1d-b649-318d331a710a.png)
 4.PATIENT'S PAGE
 ![image](https://user-images.githubusercontent.com/95906291/152490813-a427d68d-8553-42f0-96ff-d4e17683f7c6.png)
-5.BIlL GENERATION
+5.BILL GENERATION
 ![image](https://user-images.githubusercontent.com/95906291/152490854-6be62708-4803-43f5-9fb5-264ba2dc927b.png)
